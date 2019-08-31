@@ -7,19 +7,25 @@
 ---
  ***2019/8/1***
 
-*27.Remove Element*
+*27. Remove Element*
 
 ---
 
 ***2019/8/28***
 
-*26.Remove Duplicates from Sorted Array*
+*26. Remove Duplicates from Sorted Array*
 
 ---
 
 ***2019/8/29***
 
-*80.Remove Duplicates from Sorted Array II*
+*80. Remove Duplicates from Sorted Array II*
+
+------
+
+***2019/8/30***
+
+*277. Find the Celebrity*
 
 ------
 
