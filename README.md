@@ -51,3 +51,11 @@
 
 ------
 
+***2019/9/5***
+
+*119. Pascal's Triangle II*
+
+*169. Majority Element*
+
+------
+
