@@ -61,3 +61,15 @@
 
 ------
 
+***2019/9/6***
+
+*274. H-Index*
+
+*275. H-Index II*
+
+*243. Shortest Word Distance*
+
+*243. Shortest Word Distance II*
+
+*245. Shortest Word Distance III*
+
