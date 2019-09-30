@@ -73,3 +73,13 @@
 
 *245. Shortest Word Distance III*
 
+------
+
+***2019/9/23***
+
+*217. Contain Duplicate*
+
+*219. Contain Duplicate II*
+
+*220. Contain Duplicate III*
+
