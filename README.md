@@ -33,7 +33,7 @@
 
 ***2019/8/31***
 
-*41. First Missing Positive* (haven't solve with python)
+*41. First Missing Positive* 
 
 ------
 
