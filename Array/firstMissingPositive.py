@@ -1,12 +1,16 @@
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
-        n = len(nums)
-        for i in range(n):
-            while nums[i] > 0 and nums[i] <= n and nums[nums[i]-1] != nums[i]:
-                nums[i], nums[nums[i]-1] = nums[nums[i]-1], nums[i]
-        for i in range(n):
-            if nums[i] != i+1:
+        nums.sort(reverse = True)
+        count = 0
+        for i in range(len(nums)):
+            if nums[i] <= 0:
+                nums[i] = 0
+                count += 1
+        nums = nums[0:len(nums)-count] 
+        nums = list(set(nums))
+        nums.sort()
+
+        for i in range(len(nums)):
+            if i != nums[i]-1:
                 return i + 1
-        return n + 1    
-        
-        # C++ 可编译通过，但python超时
+        return len(nums) + 1
