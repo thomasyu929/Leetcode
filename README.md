@@ -101,7 +101,7 @@
 
 ---
 
-***2019/10/08***
+***2019/10/09***
 
 *123. Best Time to Buy and Sell Stock III*
 
@@ -109,5 +109,13 @@
 
 *309. Best Time to Buy and Sell Stock with Cooldown*
 
+---
 
+***2019/10/10***
+
+*11. Container With Most Water*
+
+*42. Trapping Rain Water*
+
+*334. Increasing Triplet Subsequence*
 
