@@ -119,3 +119,11 @@
 
 *334. Increasing Triplet Subsequence*
 
+---
+
+***2019/10/11***
+
+*128. Longest Consecutive Sequence*
+
+*164. Maximum Gap*
+
