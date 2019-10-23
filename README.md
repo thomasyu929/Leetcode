@@ -127,3 +127,10 @@
 
 *164. Maximum Gap*
 
+---
+
+***2019/10/22***
+
+*287. Find the Duplicate Number*
+
+*135. Candy*
