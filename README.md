@@ -134,3 +134,10 @@
 *287. Find the Duplicate Number*
 
 *135. Candy*
+
+---
+
+***2019/10/24***
+
+*330. Patching Array*
+
