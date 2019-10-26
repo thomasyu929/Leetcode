@@ -141,3 +141,15 @@
 
 *330. Patching Array*
 
+---
+
+***2019/10/25***
+
+*88. Merge Sorted Array*
+
+*75. Sort Colors*
+
+*283. Move Zeros*
+
+*376. Wiggle Subsequence*
+
