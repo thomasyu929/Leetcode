@@ -163,3 +163,9 @@
 
 *325. Maximum Size Subarray Sum Equals k*
 
+*7. Reverse Integer*
+
+*9. Palindrome Number*
+
+*206. Reverse Linked List*
+
