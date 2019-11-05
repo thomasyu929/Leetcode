@@ -1,29 +1,29 @@
 ## Leetcode 刷题记录
 
-***2019/7/23***
+***2019/07/23***
 
 *1.Two Sum*
 
 ---
- ***2019/8/1***
+ ***2019/08/01***
 
 *27. Remove Element*
 
 ---
 
-***2019/8/28***
+***2019/08/28***
 
 *26. Remove Duplicates from Sorted Array*
 
 ---
 
-***2019/8/29***
+***2019/08/29***
 
 *80. Remove Duplicates from Sorted Array II*
 
 ------
 
-***2019/8/30***
+***2019/08/30***
 
 *277. Find the Celebrity* 
 
@@ -31,19 +31,19 @@
 
 ------
 
-***2019/8/31***
+***2019/08/31***
 
 *41. First Missing Positive* 
 
 ------
 
-***2019/9/3***
+***2019/09/03***
 
 *299. Bulls and Cows*
 
 ------
 
-***2019/9/4***
+***2019/09/04***
 
 *134. Gas Station*
 
@@ -61,7 +61,7 @@
 
 ------
 
-***2019/9/6***
+***2019/09/06***
 
 *274. H-Index*
 
@@ -75,7 +75,7 @@
 
 ------
 
-***2019/9/23***
+***2019/09/23***
 
 *217. Contain Duplicate*
 
@@ -178,3 +178,24 @@
 *238. Product of Array Except Self*
 
 *152. Maximum Product Subarray*
+
+---
+
+***2019/11/03***
+
+*28. implement strStr()*
+
+---
+
+***2019/11/04***
+
+*14. Longest Common Prefix*
+
+*58. Length of Last Word*
+
+*387. First Unique Character in a String*
+
+*383. Ransom Note*
+
+*344. Reverse String*
+
