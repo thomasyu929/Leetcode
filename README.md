@@ -2,7 +2,7 @@
 
 ***2019/07/23***
 
-*1.Two Sum*
+*1. Two Sum*
 
 ---
  ***2019/08/01***
@@ -198,4 +198,16 @@
 *383. Ransom Note*
 
 *344. Reverse String*
+
+---
+
+***2019/11/05***
+
+*151. Reverse Words in a String*
+
+*186. Reverse Words in a String II*
+
+---
+
+***2019/11/06***
 
