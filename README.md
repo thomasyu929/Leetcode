@@ -211,3 +211,21 @@
 
 ***2019/11/06***
 
+*186. Reverse Vowels of a String*
+
+*205. Isomorphic Strings*
+
+---
+
+***2019/11/07***
+
+*293. Flip Game*
+
+*294. Flip Game II*
+
+---
+
+***2019/11/08***
+
+*290. Word Pattern*
+
