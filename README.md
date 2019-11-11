@@ -229,3 +229,16 @@
 
 *290. Word Pattern*
 
+---
+
+***2019/11/10***
+
+*242. Valid Anagram*
+
+*49. Group Anagrams*
+
+*249. Group Shifted Strings*
+
+**87. Scramble String(need finish)**
+
+*38. Count and Say*
