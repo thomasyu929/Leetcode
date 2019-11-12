@@ -242,3 +242,18 @@
 **87. Scramble String(need finish)**
 
 *38. Count and Say*
+
+---
+
+***2019/11/11***
+
+*179. Largest Number*
+
+*6. ZigZag Conversion*
+
+*161. One Edit Distance*
+
+**358. Rearrange String k Distance Apart(need finish)**
+
+*168. Excel Sheet Column Title*
+
