@@ -257,3 +257,13 @@
 
 *168. Excel Sheet Column Title*
 
+---
+
+***2019/11/12***
+
+*316. Remove Duplicate Letters*
+
+*271. Encode and Decode Strings*
+
+*171. Excel Sheet Column Number*
+
