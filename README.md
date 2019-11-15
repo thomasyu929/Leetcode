@@ -276,3 +276,13 @@
 *12. Integer to Roman*
 
 *273. Integer to English Words*
+
+---
+
+***2019/11/14***
+
+*246. Strobogrammatic Number*
+
+*125. Valid Palindrome*
+
+*266. Palindrome Permutation*
