@@ -286,3 +286,30 @@
 *125. Valid Palindrome*
 
 *266. Palindrome Permutation*
+
+---
+
+***2019/11/15***
+
+*5. Longest Palindromic Substring*
+
+*20. Valid Parentheses*
+
+*392. Is Subsequence*
+
+---
+
+***2019/11/16***
+
+*22. Generate Parentheses*
+
+---
+
+***2019/11/17***
+
+*214. Shortest Palindrome*
+
+*336. Palindrome Pairs*
+
+*66. Plus One*
+
