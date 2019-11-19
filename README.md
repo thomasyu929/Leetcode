@@ -313,3 +313,14 @@
 
 *66. Plus One*
 
+---
+
+***2019/11/18***
+
+*258. Add Digits*
+
+*67. Add Binary*
+
+*69. Sqrt(x)*
+
+*50. Power(x, n)*
