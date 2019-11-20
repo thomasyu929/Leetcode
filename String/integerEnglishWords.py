@@ -52,12 +52,11 @@ class Solution:
     #     return res
 
     # 2 
-
-    key1 = ["", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"] 
-    key2 = ["", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"]
-    key3 = ["", "Thousand", "Million", "Billion"]
-
+    
     def numberToWords(self, num: int) -> str:
+        
+        key3 = ["", "Thousand", "Million", "Billion"]
+        
         if num == 0:
             return "Zero"
         res = ""
@@ -70,6 +69,10 @@ class Solution:
         return res.rstrip()
 
     def convert(self, num):
+        
+        key1 = ["", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"] 
+        key2 = ["", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"]
+        
         if num == 0:
             return ""
         elif num < 20:
@@ -78,7 +81,6 @@ class Solution:
             return key1[num//10] + " " + self.convert(num%10)
         else:
             return key2[num//100] + " " + "Hundred" + " " + self.convert(num%100)
-        
 
 if __name__ == "__main__":
     cl = Solution()
