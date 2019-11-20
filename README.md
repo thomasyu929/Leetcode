@@ -324,3 +324,13 @@
 *69. Sqrt(x)*
 
 *50. Power(x, n)*
+
+---
+
+***2019/11/19***
+
+*165. Compare Version Numbers*
+
+*8. String to Integer (atoi)*
+
+*43. Multiply Strings*
