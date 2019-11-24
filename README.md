@@ -334,3 +334,29 @@
 *8. String to Integer (atoi)*
 
 *43. Multiply Strings*
+
+---
+
+***2019/11/20***
+
+*29. Divide Two Integers*
+
+*367. Valid Perfect Square*
+
+---
+
+***2019/11/21***
+
+*365. Water and Jug Problem*
+
+*204. Count Primes*
+
+*167. Two Sum II - Input array is sorted*
+
+---
+
+***2019/11/23***
+
+*15. 3Sum*
+
+*16. 3Sum Closest*

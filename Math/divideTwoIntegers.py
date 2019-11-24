@@ -46,6 +46,6 @@ class Solution:
 
 if __name__ == "__main__":
     cl = Solution()
-    dividend = 17
-    divisor = 2
+    dividend = 24
+    divisor = 4
     print(cl.divide(dividend, divisor))

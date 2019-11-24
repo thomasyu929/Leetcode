@@ -26,5 +26,5 @@ class Solution:
 if __name__ == "__main__":
     cl = Solution()
     x = 2.00000
-    n = 10
+    n = 7
     print(cl.myPow(x, n))

@@ -10,16 +10,20 @@ class Solution:
     '''
         
     
+    # hash map
+    
     def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        d = {}
+        m = {}
         for i, n in enumerate(nums):
-            m = target - n
-            if m in d:
-                return [d[m], i]
+            x = target - n
+            if x in m:
+                return i, m[x]
             else:
-                d[n] = i
+                m[n] = i
+
+
+if __name__ == "__main__":
+    cl = Solution()
+    nums = [2,7,11,15]
+    target = 9
+    print(cl.twoSum(nums, target))
