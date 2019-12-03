@@ -373,10 +373,10 @@
 
 *144. Binary Tree Preorder Traversal*
 
-*144. Binary Tree Inorder Traversal*
+*94. Binary Tree Inorder Traversal*
 
-*144. Binary Tree Postorder Traversal*
+*145. Binary Tree Postorder Traversal*
 
-*144. Binary Tree Level Order Traversal*
+*102. Binary Tree Level Order Traversal*
 
 *100. Same Tree*
