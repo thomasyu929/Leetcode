@@ -360,3 +360,23 @@
 *15. 3Sum*
 
 *16. 3Sum Closest*
+
+---
+
+***2019/11/24***
+
+*18. 4Sum*
+
+---
+
+***2019/12/02***
+
+*144. Binary Tree Preorder Traversal*
+
+*144. Binary Tree Inorder Traversal*
+
+*144. Binary Tree Postorder Traversal*
+
+*144. Binary Tree Level Order Traversal*
+
+*100. Same Tree*
