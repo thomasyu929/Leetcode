@@ -1,13 +1,15 @@
 class Solution:
+    def mergeSort(self, nums):
+        if len(nums) == 1:
+            return nums
+        nums1 = nums[:len(nums)//2]
+        nums2 = nums[len(nums)//2:]
+        nums1 = self.mergeSort(nums1)
+        nums2 = self.mergeSort(nums2)
+
+        return self.merge(nums1, nums2)
+
     def merge(self, nums1, nums2):
-        """
-        Do not return anything, modify nums1 in-place instead.
-        """
-        # for i in range(m, len(nums1)):
-        #     nums1.pop(m)
-        # for i in nums2:
-        #     nums1.append(i)
-        # nums1.sort()
         i = m - 1
         j = n - 1
         k = m + n - 1
@@ -24,3 +26,5 @@ class Solution:
             nums1[k] > nums2[j]
             k -= 1
             j -= 1
+
+
