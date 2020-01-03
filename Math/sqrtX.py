@@ -47,7 +47,7 @@ class Solution:
         # return right - 1
 
 
-        4 Newton iteration
+        # 4 Newton iteration
 
         if x == 0:
             return 0
